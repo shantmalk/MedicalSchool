@@ -1,0 +1,28 @@
+STRUCTURE:
+     H
+  +  |
+H3N--C--COOH
+     |
+     CH2
+     |
+     C
+   // \
+  O    NH2
+   
+NAME:
+Asparagine
+
+ABBREVIATION:
+ASN
+
+LETTER:
+N
+
+pK:
+2.18
+9.09
+13.2
+
+pI:
+10.76
+

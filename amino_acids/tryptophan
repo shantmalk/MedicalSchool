@@ -1,0 +1,32 @@
+STRUCTURE:
+             H
+          +  |
+        H3N--C--COOH
+             |
+   C---C     CH2
+  / ---  \   |
+C         C--C
+||       ||   \\
+||       ||    C
+||       ||   /
+C         C--N
+ \  --- /    H
+   C---C
+   
+NAME:
+Tryptophan
+
+ABBREVIATION:
+TRP
+
+LETTER:
+W
+
+pK:
+2.38
+9.39
+NaN
+
+pI:
+5.88
+

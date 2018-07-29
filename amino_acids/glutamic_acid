@@ -1,0 +1,30 @@
+STRUCTURE:
+     H
+  +  |
+H3N--C--COOH
+     |
+     CH2
+     |
+     CH2
+     |
+     C
+   // \
+  O    OH
+   
+NAME:
+Glutamic Acid
+
+ABBREVIATION:
+GLU
+
+LETTER:
+E
+
+pK:
+2.19
+9.67
+4.25	
+
+pI:
+3.08
+

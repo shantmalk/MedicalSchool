@@ -1,0 +1,30 @@
+STRUCTURE:
+     H
+  +  |
+H3N--C--COOH
+     |
+     CH2
+  +  |
+  N--C
+ ||   \\
+ ||    C
+ ||   /
+  C--NH
+	 
+NAME:
+Histidine
+
+ABBREVIATION:
+HIS
+
+LETTER:
+H
+
+pK:
+1.78
+8.97
+5.97
+
+pI:
+7.64
+

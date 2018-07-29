@@ -1,0 +1,35 @@
+STRUCTURE:
+     H
+  +  |
+H3N--C--COOH
+     |
+     CH2
+     |
+     C
+   //  \
+  C     C
+  |    ||
+  C     C
+   \\  /
+     C
+     |
+     OH
+
+   
+NAME:
+Tyrosine
+
+ABBREVIATION:
+TYR
+
+LETTER:
+Y
+
+pK:
+2.20
+9.11
+10.07
+
+pI:
+5.63
+

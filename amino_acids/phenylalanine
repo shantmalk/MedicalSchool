@@ -1,0 +1,32 @@
+STRUCTURE:
+     H
+  +  |
+H3N--C--COOH
+     |
+     CH2
+     |
+     C
+   //  \
+  C     C
+  |    ||
+  C     C
+   \\  /
+     C
+	 
+NAME:
+Phenylalanine
+
+ABBREVIATION:
+PHE
+
+LETTER:
+F
+
+pK:
+2.58
+9.21
+NaN
+
+pI:
+5.74
+

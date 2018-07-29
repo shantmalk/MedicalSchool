@@ -1,0 +1,30 @@
+STRUCTURE:
+     H
+  +  |
+H3N--C--COOH
+     |
+     CH2
+     |
+     CH2
+     |
+     C
+   // \
+  O    NH2
+   
+NAME:
+Glutamine
+
+ABBREVIATION:
+GLN
+
+LETTER:
+Q
+
+pK:
+2.19
+9.67
+NaN	
+
+pI:
+5.65
+
